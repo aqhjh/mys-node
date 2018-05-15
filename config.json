@@ -1,0 +1,6 @@
+{
+    "mys": {
+        "mimetypes": ["img", "JS", "CSS"]
+    },
+    "static": "static"
+}
